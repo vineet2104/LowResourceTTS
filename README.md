@@ -1,7 +1,5 @@
 # Speech Synthesis for Low Resource Languages using Transliteration Enabled Transfer Learning
 
-Work Done by Vineet Bhat, under the guidance of Prof Pushpak Bhattacharyya, Department of Computer Science, IIT Bombay
-
 
 ## Abstract 
 
